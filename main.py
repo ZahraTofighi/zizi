@@ -15,4 +15,6 @@ if __name__ == '__main__':
 print("gav")
 print("gav")
 print("gav3")
+print("gav3")
+print("gav4")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
